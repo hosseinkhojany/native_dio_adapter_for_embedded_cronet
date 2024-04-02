@@ -22,8 +22,7 @@ dependencies:
 
   dio: ^5.4.0
   cupertino_http: ^1.0.0
-#  cronet_http: '>=0.4.0 <=2.0.0'
-  cronet_http_embedded: ^0.4.2
+  cronet_http_embedded: ^0.4.3
   http: ^1.0.0
 
 dev_dependencies:
