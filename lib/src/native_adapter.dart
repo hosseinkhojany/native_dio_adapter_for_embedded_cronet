@@ -1,7 +1,7 @@
 import 'dart:io';
 import 'dart:typed_data';
 
-import 'package:cronet_http_embedded/cronet_http_embedded.dart';
+import 'package:cronet_http_embedded/cronet_http.dart';
 import 'package:cupertino_http/cupertino_http.dart';
 import 'package:dio/dio.dart';
 import 'cronet_adapter.dart';
